@@ -25,7 +25,7 @@ import fetch from 'node-fetch';
  ┣┅⟣✦ *Ale Bot 🌸*
  ┣┅⟣✦ *Colaboradores* 
  ┗━━━━━━━━━━━━━━━━━━┛ 
- ━━━━━━━━━━━━━━━━━━━━ 
+ ┏━━━━━━━━━━━━━━━━━━━ 
  🖋️ *Instagram ofc📸*
   
  🖋️ *Creador Ofc|karim:* https://www.instagram.com/usxr._.karim/ 
