@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['59176181985', 'Karim', true],
-['59176181985', 'Karim', true],
+['59168683798', 'Karim', true],
+['59168683798', 'Karim', true],
 ['51977835959'],
 ['51907913096'],
 ['51907913096'], 
@@ -92,12 +92,12 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
-global.author = 'By Karim x Daniel'
+global.packname = '𝐀𝐥𝐞 𝐁𝐨𝐭'
+global.author = 'By Karim x Ale'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
+global.lb = '𝐀𝐥𝐞 𝐁𝐨𝐭'
 global.vs = '1.5.5'
 global.yt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n'
 global.ig = 'https://www.instagram.com/usxr._.karim/'
@@ -112,7 +112,7 @@ global.nnnt2 = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' // Grupo COL 2
 global.nnntt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo COL 3
 global.nnnttt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n' //Canal DylanBot
 global.nnntttt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/59176181985' //Dudas? escríbeme...
+global.asistencia = 'wa.me/59168683798' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -133,13 +133,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
-global.igfg = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
+global.wm = '𝐀𝐥𝐞 𝐁𝐨𝐭'
+global.igfg = '𝐀𝐥𝐞 𝐁𝐨𝐭'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
+global.nomorown = '𝐀𝐥𝐞 𝐁𝐨𝐭'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
