@@ -1,7 +1,7 @@
 {
-  "name": "DylanBot",  
+  "name": "AleBot",  
   "description": "Super Bot WhatsApp",
-  "repository": "https://github.com/Karim-off/DylanBot",
+  "repository": "https://github.com/Karim-off/AleBot",
   "logo": "https://i.imgur.com/8fK4h6F.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
