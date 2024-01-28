@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="media/menús/Menu1.jpg" alt="GataBot-MD" width="900"/>
+<img src="media/menus/Menu1.jpg" alt="GataBot-MD" width="900"/>
 </p>
 
 ### ▢`🏓𝘿𝙐𝘿𝘼𝙎 𝙎𝙊𝘽𝙍𝙀 𝙀𝙇 𝘽𝙊𝙏?🍁`
