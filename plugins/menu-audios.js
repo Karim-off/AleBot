@@ -244,7 +244,7 @@ let str = ’╭━━━━━━━━━━━━━━━━╾•
 │➯ *Y este quien es*
 │➯ *Y este quien*
 │➯ *Yamete-kudasai2*
-│➯⫷᭄©𝙳𝚈𝙻𝙰𝙽𝙱𝙾𝚃✍
+│➯⫷᭄©𝙰𝙻𝙴𝙱𝙾𝚃-𝙼𝙳✍
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
