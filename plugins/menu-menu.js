@@ -93,9 +93,9 @@ let menu = `*╭━━❍𝘼𝙇𝙀 𝘽𝙊𝙏❍━━╮*
 *┃╭━━━━━━━━━━━━━━━━╾•* 
 *┃┃  ❍ ${ucapan()} ❍* 
 *┃┣━━━━━━━━━━━━━━━━╾•* 
-*┃┃📱⋄ CREADOR: wa.me/59168683798* 
-*┃┃💻⋄ VERSION » {1.1.0}* 
-*┃┃🗓️⋄ FECHA » ${week}, ${date}* 
+*┃┃⋄📱 CREADOR: wa.me/59168683798* 
+*┃┃⋄💻 VERSION » {1.1.0}* 
+*┃┃⋄🗓️ FECHA » ${week}, ${date}* 
 *┃┃⋄⌛TIEMPO ACTIVO » ${uptime}* 
 *┃┃⋄📚 LIBRERIA » ${library}* 
 *┃╰━━━━━━━━━━━━━━━━╾•* 
