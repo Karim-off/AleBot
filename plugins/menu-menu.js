@@ -96,7 +96,7 @@ let menu = `*╭━━❍𝘼𝙇𝙀 𝘽𝙊𝙏❍━━╮*
 *┃┃📱⋄ CREADOR: wa.me/59168683798* 
 *┃┃💻⋄ VERSION » {1.1.0}* 
 *┃┃🗓️⋄ FECHA » ${week}, ${date}* 
-*┃┃⋄ ⌛TIEMPO ACTIVO » ${uptime}* 
+*┃┃⋄⌛TIEMPO ACTIVO » ${uptime}* 
 *┃┃⋄📚 LIBRERIA » ${library}* 
 *┃╰━━━━━━━━━━━━━━━━╾•* 
 *┃┃⋄*🎖️ 𝙉𝙞𝙫𝙚𝙡: ${level}
