@@ -83,32 +83,15 @@ await conn.sendMessage(m.chat, {
 
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-let menu = `*╭━━❍𝘼𝙇𝙀 𝘽𝙊𝙏❍━━╮*
-*┃ ╭━━━━━━━━━━━━━━━━╮*
-*┃ ┃ ╭┈────────────╮*
-*┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
-*┃ ┃ ╰┈────────────╯*
-*┃ ╰━━━━━━━━━━━━━━━━╯*
-*┣━━━▢ 🌸𝐇𝐎𝐋𝐀, ${username}🌸*
-*┃╭━━━━━━━━━━━━━━━━╾•* 
-*┃┃  ❍ ${ucapan()} ❍* 
-*┃┣━━━━━━━━━━━━━━━━╾•* 
-*┃┃⋄📱 CREADOR: wa.me/59168683798* 
-*┃┃⋄💻 VERSION » {1.1.0}* 
-*┃┃⋄🗓️ FECHA » ${week}, ${date}* 
-*┃┃⋄⌛TIEMPO ACTIVO » ${uptime}* 
-*┃┃⋄📚 LIBRERIA » ${library}* 
-*┃╰━━━━━━━━━━━━━━━━╾•* 
-*┃┃⋄*🎖️ 𝙉𝙞𝙫𝙚𝙡: ${level}
-*┃┃⋄*💎 𝘿𝙞𝙖𝙢𝙖𝙣𝙩𝙚𝙨: ${limit}
-*┃┃⋄*🌸 𝘼𝙡𝙚𝘾𝙤𝙞𝙣𝙨: ${money}
-*┃┃⋄*🪙 𝙏𝙤𝙠𝙚𝙣𝙨: ${joincount}
-*┃┃⋄*🧰 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙞𝙖: ${exp}
-*┃┃⋄*⚓ 𝙍𝙖𝙣𝙜𝙤: ${role}
-*┃┃⋄*${readMore}
-*┃╰━━━━━━━━━━━━━━━━╾•* 
+let menu = `⌜ *${wm}* ⌟  
 
-(LA LISTA DE VS MUY PRONTO EN ALEBOT)
+*╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
+ ┃➤ 👤 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : Karim
+ ┃➤ 👤 𝐒𝐨𝐩𝐨𝐫𝐭𝐞 : Karim
+ ┃➤ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
+*╰━━━━━━━━━━━━⬣*
+
+(LISTAS DE VS PRONTO EN ALEBOT)
 
 *╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 𝐅𝐄𝐌 ⚔️ 〕*
 *│➯ ⚔️ ${usedPrefix}feminfinito14*
@@ -370,16 +353,16 @@ let menu = `*╭━━❍𝘼𝙇𝙀 𝘽𝙊𝙏❍━━╮*
 *│➯ 🧩 ${usedPrefix}cosplay*
 *╰─────────────────╯*
 
-DYLAN BOT || KARIM X DYLAN`.trim()
+ALE BOT || KARIM X ALE`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
-let img = await (await fetch(`https://telegra.ph/file/404fea4e2be97e2f9cf50.jpg`)).buffer()  
+let img = await (await fetch(`https://telegra.ph/file/2beb82330be9e795dea98.jpg`)).buffer()  
 await conn.sendMessage(m.chat, {
 text: menu,
 contextInfo: { 
 mentionedJid: [m.sender],
 forwardingScore: 9, 
 externalAdReply: {
-title: '❑— 𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
+title: '❑— 𝘼𝙡𝙚𝘽𝙤𝙩-𝙈𝘿 —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 //body: 'Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 thumbnail: img,
 sourceUrl: 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6',
