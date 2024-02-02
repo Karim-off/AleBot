@@ -372,7 +372,7 @@ let menu = `*╭━━❍𝘼𝙇𝙀 𝘽𝙊𝙏❍━━╮*
 
 DYLAN BOT || KARIM X DYLAN`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
-let img = await (await fetch(`https://telegra.ph/file/2beb82330be9e795dea98.jpg`)).buffer()  
+let img = await (await fetch(`https://telegra.ph/file/404fea4e2be97e2f9cf50.jpg`)).buffer()  
 await conn.sendMessage(m.chat, {
 text: menu,
 contextInfo: { 
