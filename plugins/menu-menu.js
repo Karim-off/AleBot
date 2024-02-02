@@ -91,6 +91,8 @@ let menu = `⌜ *${wm}* ⌟
  │➯ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
 *╰━━━━━━━━━━━━⬣*
 
+(LA LISTA DE VS MUY PRONTO EN ALEBOT)
+
 *╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 𝐅𝐄𝐌 ⚔️ 〕*
 *│➯ ⚔️ ${usedPrefix}feminfinito14*
 *│➯ ⚔️ ${usedPrefix}feminfinito16*
